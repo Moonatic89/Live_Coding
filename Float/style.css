@@ -9,3 +9,18 @@
     display: table;
     clear: both;
 }
+
+.content, .sidebar {
+    height: 500px;
+    float: left;
+}
+
+.sidebar {
+    width: 30%;
+    background-color: cornflowerblue;
+}
+
+.content {
+    width: 70%;
+    background-color: crimson;
+}
