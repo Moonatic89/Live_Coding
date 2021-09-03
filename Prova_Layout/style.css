@@ -11,3 +11,24 @@
     display: table;
     clear: both;
 }
+
+/* body */
+
+body {
+    background-color: lightgray;
+}
+
+.site_header {
+    background-color: royalblue;
+}
+
+.sidebar {
+    width: 25%;
+    float: left;
+    background-color: pink;
+}
+
+.main_content {
+    width: 60%;
+    background-color: saddlebrown;
+}
